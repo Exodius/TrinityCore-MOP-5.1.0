@@ -1,11 +1,13 @@
 TrinityCore-MOP-5.1.0
 =====================
 
-TrinityCore 4.3.4 changed to Mist of Pandaria 5.1.0
-Leak: 
+TrinityCore 4.3.4 changed to Mist of Pandaria 5.1.0a
 
+last merge 3/02/2013 with TrinityCore 4.3.4.
+commit - 66dfcd2b43286829a200a52aac83d57aac88f140
 
-
+SQL no included, file too big for GitHub
+Mmaps, Vmaps and DBC not included, again file to big.
 
 
 # ![logo](http://www.trinitycore.org/f/public/style_images/1_trinitycore.png) TrinityCore
