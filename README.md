@@ -9,6 +9,8 @@ commit - 66dfcd2b43286829a200a52aac83d57aac88f140
 SQL not included, file too big for GitHub
 Mmaps, Vmaps and DBC not included, again file to big.
 
+https://github.com/Kittnz/TrinityCore-MOP-5.1.0
+
 
 # ![logo](http://www.trinitycore.org/f/public/style_images/1_trinitycore.png) TrinityCore
 
