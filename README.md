@@ -12,6 +12,17 @@ Mmaps, Vmaps and DBC not included, again file to big.
 https://github.com/Kittnz/TrinityCore-MOP-5.1.0
 
 
+People are selling this source for a lot of money, i'm giving it out for free.
+
+Those errors seem to be nasty and i guess normal since some of them are changed and edited.
+
+mmaps, vmaps, dbc & SQL world database
+
+https://mega.co.nz/#!BoNEUBgI!Qp8psxnb9rFz24VpSSjOI0x8WpkaIgfvCoyyuyAzbLY
+
+
+
+
 # ![logo](http://www.trinitycore.org/f/public/style_images/1_trinitycore.png) TrinityCore
 
 
